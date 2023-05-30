@@ -3,8 +3,11 @@ Hogwarts_0.3(A 2D game developed using C++ and SDL)- Group Project
 
 # LINKS
 SDL2 : "https://github.com/libsdl-org/SDL/releases/tag/release-2.24.0"
+
 SDL2_image-2.0.1: "https://github.com/libsdl-org/SDL_image/releases"
+
 SDL2_MIXER-2.0.0: "https://github.com/libsdl-org/SDL_mixer/releases"
+
 sdl_ttf-2.20.0: "https://github.com/libsdl-org/SDL_ttf/releases"
 
 PLACE THEM IN THE PROJECT DIRECTORY OR ANY OTHER DESIRED DIRECTORIES
