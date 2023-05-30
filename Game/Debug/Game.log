@@ -1,0 +1,17 @@
+﻿  Button.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\button.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\Collision.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  dashboard.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\dashboard.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Help.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\dashboard.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  textureManager.cpp
+D:\bachelor\3rd sem\opp\project\Final project\Hogwarts_0.3\Game\gameLoop\Src\Game.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
