@@ -13,13 +13,10 @@ sdl_ttf-2.20.0: "https://github.com/libsdl-org/SDL_ttf/releases"
 PLACE THEM IN THE PROJECT DIRECTORY OR ANY OTHER DESIRED DIRECTORIES
 
 # SNIPETS OF PROJECT
-DASHBOARD
 ![image](https://github.com/Krish0110/OOP-Project/assets/84063708/e63572e4-bb2f-4b29-b52a-07889ef0a8de)
 
-GAME WINDOW
 ![image](https://github.com/Krish0110/OOP-Project/assets/84063708/87a6e032-c6f5-431f-96e1-09f2091db0ca)
 
-HELP WINDOW
 ![image](https://github.com/Krish0110/OOP-Project/assets/84063708/b05c907c-eeec-4e2b-ba46-d29b852e1664)
 
 
