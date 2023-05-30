@@ -20,5 +20,6 @@ GAME WINDOW
 ![image](https://github.com/Krish0110/OOP-Project/assets/84063708/87a6e032-c6f5-431f-96e1-09f2091db0ca)
 
 HELP WINDOW
-![image](https://github.com/Krish0110/OOP-Project/assets/84063708/c416fa25-8d49-48fc-bd62-5bbf3983ec14)
+![image](https://github.com/Krish0110/OOP-Project/assets/84063708/b05c907c-eeec-4e2b-ba46-d29b852e1664)
+
 
